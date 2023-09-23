@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SvelteKit, Astro, Rust, Fastify, Hasura... and Verilog, Logisim and RISC-V**
 
+- 👨‍💻 See more about me here: [https://vsahni.me](https://vsahni.me)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/skamrvfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skamrvfx" height="30" width="40" /></a>
