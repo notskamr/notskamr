@@ -17,7 +17,7 @@
 </p>
 
 
-<p align="center"><a href="https://np.vsahni.me"><img style="width: 60%;" src="https://raw.githubusercontent.com/notskamr/notskamr/2a8a3c85863e0e665e626e70c4dc943df18ccbe3/check_out_listening.svg" alt="Currently listening to" /></a></p>
+<p align="center"><a href="https://np.vsahni.me"><img style="width: 70% max-width: 400px;" src="https://raw.githubusercontent.com/notskamr/notskamr/2a8a3c85863e0e665e626e70c4dc943df18ccbe3/check_out_listening.svg" alt="Currently listening to" /></a></p>
 
 
 <h3 align="center"Languages and Tools:</h3>
