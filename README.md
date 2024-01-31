@@ -17,7 +17,7 @@
 </p>
 
 
-<p align="center"><a href="https://np.vsahni.me"><img style="height: 120px; margin-top: 8px; margin-bottom: 8px;" align="center" src="https://np.vsahni.me/svg" alt="Currently listening to" /></a></p>
+<p align="center"><a href="https://np.vsahni.me"><img src="https://raw.githubusercontent.com/notskamr/notskamr/main/check_out_listening.svg" alt="Currently listening to" /></a></p>
 
 
 <h3 align="center"Languages and Tools:</h3>
