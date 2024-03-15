@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Sahni AKA Skamr</h1>
 <h3 align="center">A high school student/developer/PC builder/generally interested in "tech" guy from India</h3>
 
-- 🔭 I’m currently working on [Firewood](https://github.com/notskamr/Firewood-Old)
+- 🔭 I’m currently working on ???
 
 - 🌱 I’m currently learning **SvelteKit, Astro, Go, Elysia, Hasura... and Verilog, Logisim and RISC-V**
 
