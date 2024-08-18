@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **???**
 
-- 🌱 I’m currently learning **SvelteKit, Astro, Go, Elysia, Hasura... and Verilog, Logisim and RISC-V**
+- 🌱 I’m currently learning **Go, Verilog, and RISC-V**
 
 - 👨‍💻 See more about me here: [https://vsahni.me](https://vsahni.me)
 
