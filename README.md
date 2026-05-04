@@ -11,8 +11,6 @@
 
 <p align="center"><a href="https://np.vsahni.me"><img style="width: 400px;" src="https://raw.githubusercontent.com/notskamr/notskamr/2a8a3c85863e0e665e626e70c4dc943df18ccbe3/check_out_listening.svg" alt="Currently listening to" /></a></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notskamr&show_icons=true&locale=en&layout=compact" alt="notskamr" /></p>
-
 <p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=notskamr&theme=dark&hide_border=true" alt="notskamr" /></p>
 
 
