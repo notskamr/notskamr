@@ -13,6 +13,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=notskamr&show_icons=true&locale=en&layout=compact" alt="notskamr" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=notskamr&show_icons=true&locale=en" alt="notskamr" /></p>
+<p align="center">&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=notskamr&theme=dark&hide_border=true" alt="notskamr" /></p>
 
 
